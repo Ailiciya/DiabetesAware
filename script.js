@@ -1,4 +1,3 @@
-
 document.getElementById("diabetes-form").addEventListener("submit", function(event) {
     event.preventDefault();
   
