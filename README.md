@@ -19,7 +19,7 @@ Proyek ini menggunakan **Kecerdasan Buatan (AI)** dan **Deep Learning** untuk me
 ## Cara Menggunakan
 1. **Clone repository ini:**
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/Ailiciya/DiabetesAware
 
 2. **Install dependensi: Pastikan Python terinstal, lalu install dependensi yang diperlukan:**
    ```bash
@@ -30,7 +30,15 @@ Proyek ini menggunakan **Kecerdasan Buatan (AI)** dan **Deep Learning** untuk me
 
 
 # Dataset
-Dataset yang digunakan adalah PIMA Indians Diabetes Database yang tersedia di Kaggle. Dataset ini berisi informasi tentang faktor-faktor yang mempengaruhi risiko diabetes, seperti usia, tekanan darah, dan kadar gula.
+Dataset yang digunakan adalah PIMA Indians Diabetes Database, yang tersedia di platform Kaggle. Dataset ini berisi informasi seperti:
+
+- Jumlah kehamilan
+- Kadar glukosa darah
+- Tekanan darah
+- Indeks Massa Tubuh (BMI)
+- Tingkat insulin
+- Usia
+Dataset ini digunakan untuk melatih model deep learning agar mampu memprediksi risiko diabetes dengan akurasi tinggi.
 
 
 
